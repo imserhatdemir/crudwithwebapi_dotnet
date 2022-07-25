@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vq2x23TPjcTSTNZMGGAb6b5kB6736OkTa9LAOfeKL0TSpjeDhXSbdr3USuJcOUFZ57yncvqUCeYPoA7hXW5zuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serha\\Desktop\\play.catalog\\src\\play.catalog.service\\play.catalog.service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\serha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\serha\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\serha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\serha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\serha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
